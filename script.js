@@ -9,7 +9,7 @@ const messages = {
     invalidEmail: "Revisa el formato de tu correo.",
     shortPassword: "La contraseña debe tener al menos 6 caracteres."
 };
-
+//comentario de prueba 2
 form.addEventListener("submit", (event) => {
     event.preventDefault();
 
